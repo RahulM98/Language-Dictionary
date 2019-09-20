@@ -1,2 +1,2 @@
 # Language-Dictionary
-Language Dictionary Using BST
+Language Dictionary Using Binary Search Tree
